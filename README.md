@@ -1,0 +1,1 @@
+# Vanilla React - HTML and JS only
